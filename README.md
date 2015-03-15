@@ -11,4 +11,4 @@ About the Data: 500 Rows with Dummy card numbers along with a unique sequence ID
 
 4) Modeling: Once Logistic regression was established, then I use scikit learn to cross validate the regression results. For another step of validation, I also tried using KNN to see how the results yeild.
 
-5) Interpretation: Interpreting the results and the accuracy of the predictions arising out of Logistic regression.
+5) Interpretation: Interpreting the results and cross-validating the ccuracy of the predictions arising out of Logistic regression/KNN.
