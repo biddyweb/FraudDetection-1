@@ -1,5 +1,5 @@
 # FraudDetection using Logistic Regression
-A project to predict whether a card transaction can be fraud or not using the Choice modeling. I did this as a part of helping an internal team at work with their Fraud modeling problem. The data used in this data set is all dummy data sets and has nothing "production" about them.
+A project to predict whether a card transaction can be fraud or not using the Choice modeling. I did this as a part of helping an internal team at work with their Fraud modeling problem. The data used in this problem set are all dummy data sets and has nothing "production" about them.
 
 About the Data: 500 Rows with Dummy card numbers along with a unique sequence ID for all the transactions against them. Transaction attributes/columns include the Zip Code, Merchant Category code, Amount involved in the transaction and whether the transaction was Fraud or not.
 
